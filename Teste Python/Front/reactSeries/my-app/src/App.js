@@ -3,7 +3,7 @@ import Navbar from './componet/navbar';
 import Home from './componet/Home';
 import { Switch, Route } from 'react-router-dom'
 import Products from './componet/Products';
-
+import Product from './componet/Product';
 function App() {
   return (
     <>
